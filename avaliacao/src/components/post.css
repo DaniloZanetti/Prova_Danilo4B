@@ -1,0 +1,20 @@
+.titulo{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.imagem{
+    max-width: 500px;
+    align-items: center;
+}
+
+.descricao{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.categoria{
+    text-align: center;
+    font-weight: bold;
+}
+
